@@ -16,9 +16,3 @@ see requirements.txt
   - Python Dictionary Data Structure
   - Pygame
   - Tkinter
-
-
-# Ludo
-A python version of the board game Ludo (2-4 Players).
-
-Concepts: 
