@@ -7,7 +7,7 @@ Interactive board game of Ludo (2-4 Players). Created to try and implement proje
 Download repository and 
 
 ## SYTEM REQUIREMENTS: 
-see requirements.txt
+pygame, sys, pygame.locals, from pygame import mixer, webbrowser, tkinter as tk, random, time
 
 ## TECH STACK: 
 - Python
