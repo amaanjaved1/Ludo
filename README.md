@@ -20,5 +20,5 @@ Interactive board game of Ludo (2-4 Players). Created to try and implement proje
   - Pygame
   - Tkinter
 
-## Image
+## Gameplay Image
 ![ludo-image](https://user-images.githubusercontent.com/89746098/187108870-c6b0652e-002f-4c06-948c-f69e1f8b14d2.jpg)
